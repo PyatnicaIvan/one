@@ -1,0 +1,40 @@
+
+body {font-family: 'Merriweather', serif;}
+
+
+
+img {
+  float: left;
+  padding-right: 10px;
+  }
+
+.container {width: 600px; 
+    padding: 10px; 
+    margin: auto;
+             }
+.ava{    
+    width: 45%;
+    min-height: 150px;
+   float: left;
+
+        }
+.text{    
+    width: 45%;
+    min-height: 150px;
+    margin-left: 55%;
+}
+
+th {
+  font-weight: normal;
+  color: #039;
+  padding: 10px 15px;
+}
+td {
+  color: #db5604;
+  border-top: 1px solid #e8edff;
+  padding: 20px 30px;
+  text-align: center;
+  background: #040647
+}
+
+
